@@ -8,4 +8,4 @@ while (num < 0) {
 for (let i = 1; i <= num; i++) {
     factorial *= i;
 }
-console.log("El resultado de " + num + "! es: " + factorial + ".");
+alert("El resultado de " + num + "! es: " + factorial + ".");
